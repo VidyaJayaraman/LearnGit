@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is A81D-5642
+
+ Directory of C:\Users\ol56\Desktop\My Project
+
+13/06/2024  10:50    <DIR>          .
+13/06/2024  10:48    <DIR>          ..
+13/06/2024  10:50                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  73,118,707,712 bytes free
